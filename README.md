@@ -1,4 +1,5 @@
 # Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain
+This project has six concepts, including document loader, text splitter, embedding, vector database, retriever, and Gradio interface, across eight labs for creating a RAG application based on LangChain. 
 
 - Gain practical experience building your own real-world gen AI application that you can talk about in interviews.
 
@@ -15,3 +16,4 @@
 - LangChain
 - Gradio
 - Vector database
+
