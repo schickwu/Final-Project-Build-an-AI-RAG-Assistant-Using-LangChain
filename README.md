@@ -26,9 +26,9 @@ This project has six concepts, including document loader, text splitter, embeddi
 - Put Whole Document into Prompt and Ask the Model: https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/Full%20document%20retrieve%20limitation.ipynb
 - q&a bot file: https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/qabot.py
 ## Exercises Screenshoots:
-![pdf_loader](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/pdf_loader.png =100x20)
-![Code Splitter](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/code_splitter.png =100x20)
-![embedding](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/embedding.png =100x20)
-![vectordb](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/vectordb.png =100x20)
-![retriever](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/retriever.png =100x20)
-![QA_Bot](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot.png =100x20)
+![pdf_loader](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/pdf_loader.png)
+![Code Splitter](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/code_splitter.png)
+![embedding](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/embedding.png)
+![vectordb](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/vectordb.png)
+![retriever](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/retriever.png)
+![QA_Bot](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot.png)
