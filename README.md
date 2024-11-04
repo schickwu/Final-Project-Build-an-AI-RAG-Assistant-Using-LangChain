@@ -31,4 +31,5 @@ This project has six concepts, including document loader, text splitter, embeddi
 ![embedding](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/embedding.png)
 ![vectordb](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/vectordb.png)
 ![retriever](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/retriever.png)
-![QA_Bot](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot.png)
+![QA_Bot_pdf](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot_pdf.png)
+![QA_Bot_csv](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot_csv.png)
