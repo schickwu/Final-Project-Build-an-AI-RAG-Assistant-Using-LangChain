@@ -26,10 +26,10 @@ This project has six concepts, including document loader, text splitter, embeddi
 - Put Whole Document into Prompt and Ask the Model: https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/Full%20document%20retrieve%20limitation.ipynb
 - q&a bot file: https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/qabot.py
 ## Exercises Screenshoots:
-![pdf_loader](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/pdf_loader.png)
-![Code Splitter](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/code_splitter.png)
-![embedding](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/embedding.png)
-![vectordb](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/vectordb.png)
-![retriever](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/retriever.png)
-![QA_Bot_pdf](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot_pdf.png)
-![QA_Bot_csv](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshoots/QA_bot_csv.png)
+![pdf_loader](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/pdf_loader.png)
+![Code Splitter](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/code_splitter.png)
+![embedding](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/embedding.png)
+![vectordb](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/vectordb.png)
+![retriever](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/retriever.png)
+![QA_Bot_pdf](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/QA_bot_pdf.png)
+![QA_Bot_csv](https://github.com/schickwu/Final-Project-Build-an-AI-RAG-Assistant-Using-LangChain/blob/main/screenshots/QA_bot_csv.png)
